@@ -1,5 +1,13 @@
 # flutter-splash-codelab
 
-Flutter Codelab #1 - Splash Screen
+Codelab 1 - Splash Screen:
 
-<img src="screenshots/splash.png" width="300"> <img src="screenshots/home.png" width="300">
+<img src="screenshots/splash.png" width="250">
+
+Codelab 2 - Landing Page:
+
+<img src="screenshots/home.png" width="250">
+
+Codelab 3 - Details Page:
+
+<img src="screenshots/details.png" width="250">
